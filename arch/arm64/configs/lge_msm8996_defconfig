@@ -1,7 +1,7 @@
 include msm-perf_defconfig
 # LG Platform
 CONFIG_MACH_LGE=y
-CONFIG_LOCALVERSION="-lighthouse"
+CONFIG_LOCALVERSION="-rikshz"
 
 # ARM
 CONFIG_NR_CPUS=4
